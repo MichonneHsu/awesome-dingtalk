@@ -30,6 +30,7 @@
 ### PHP
 
 - [ding-notice](https://github.com/wowiwj/ding-notice) - 钉钉推送机器人消息发送laravel扩展包
+- [simple-dingtalk](https://github.com/MichonneHsu/simple-dingtalk) - 钉钉API扩展包
 
 ### Python
 
